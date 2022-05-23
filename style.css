@@ -1,0 +1,23 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+
+body{
+    font-family: 'open Sans', sans-serif;
+    background-color: #9c835f;
+    height: fit-content;
+}
+
+/* Navigation */
+
+/* Game Area */
+
+/* clas for DOM */
+
+ol, ul {
+    list-style: none;
+}
